@@ -105,7 +105,7 @@ After this there will be no more bug / security fixes or feature requests.
 ## Getting Started
 ### Node
 Note: The readme is always up-to-date with the latest commit. See [Releases](https://github.com/Simonwep/pickr/releases) for installation instructions regarding to the latest version.
-
+ (https://pixel-color-online.com/). <a href="https://pixel-color-online.com/">color-picker</a>
 Install via npm:
 ```shell
 $ npm install @simonwep/pickr
@@ -326,7 +326,7 @@ const pickr = new Pickr({
     // (see: https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key)
     closeWithKey: 'Escape',
 
-    // Defines the position of the color-picker (https://pixel-color-online.com/). <a href="https://pixel-color-online.com/">color-picker</a>
+    // Defines the position of the color-picker
     // Any combinations of top, left, bottom or right with one of these optional modifiers: start, middle, end
     // Examples: top-start / right-end
     // If clipping occurs, the color picker will automatically choose its position.
