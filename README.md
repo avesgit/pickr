@@ -326,7 +326,7 @@ const pickr = new Pickr({
     // (see: https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key)
     closeWithKey: 'Escape',
 
-    // Defines the position of the color-picker.
+    // Defines the position of the color-picker (https://pixel-color-online.com/). <a href="https://pixel-color-online.com/">color-picker</a>
     // Any combinations of top, left, bottom or right with one of these optional modifiers: start, middle, end
     // Examples: top-start / right-end
     // If clipping occurs, the color picker will automatically choose its position.
